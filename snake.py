@@ -14,7 +14,7 @@ orange = (255, 165, 0)
 width, height = 600, 400
 
 game_display = pygame.display.set_mode((width, height))
-pygame.display.set_caption("NeuralNine Snake Game")
+pygame.display.set_caption("Snake Game")
 
 clock = pygame.time.Clock()
 
